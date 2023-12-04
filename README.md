@@ -1,5 +1,7 @@
 # NBA-Query-Website
+## by Rishab Anumula, Raghav, Subash, Rohit Konatam
 NBA Query Postgres Project
+
 
 
 
@@ -18,6 +20,12 @@ post SC
 
 Post SC
 
-## Use Text box and Drop down 
+## Use the Text box and Dropdown 
+
+Post SC
+
+# This is an example Query
+
+Post SC
 
 
