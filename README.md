@@ -1,6 +1,8 @@
 # NBA-Query-Website
 ### by Rishab Anumula, Raghav, Subash, Rohit Konatam
-NBA Query Postgres Project
+
+Link to Youtube Video:
+Link to GitHub repository: 
 
 
 
@@ -20,7 +22,7 @@ post SC
 
 Post SC
 
-## Use the Text box and Dropdown 
+## Use the Text box and Dropdown for the fields
 
 Post SC
 
