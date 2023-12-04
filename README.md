@@ -1,5 +1,5 @@
 # NBA-Query-Website
-## by Rishab Anumula, Raghav, Subash, Rohit Konatam
+### by Rishab Anumula, Raghav, Subash, Rohit Konatam
 NBA Query Postgres Project
 
 
@@ -24,7 +24,7 @@ Post SC
 
 Post SC
 
-# This is an example Query
+## This is an example Query
 
 Post SC
 
